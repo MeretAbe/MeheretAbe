@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Meheret, an <a href="https://www.linkedin.com/in/meheret-abebe/">Data Analytics Professional</a></h1>
+<h1>Hi, I'm Meheret, a <a href="https://www.linkedin.com/in/meheret-abebe/">Data Analytics Professional</a></h1>
 
 
 
