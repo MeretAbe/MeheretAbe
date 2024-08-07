@@ -1,4 +1,7 @@
-<h1>Hi, I'm Meheret, <br/><a href="https://github.com/Meret433"></a> Data Analytics Professional<a href="https://www.linkedin.com/in/meheret-abebe//"></a> </a></h1>
+
+<h1>Hi, I'm Meheret, an <a href="https://www.linkedin.com/in/meheret-abebe/">Data Analytics Professional</a></h1>
+
+
 
 <h2>Data Analytics Projects:</h2>
 
