@@ -17,7 +17,9 @@
 
 [<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/meheretabebe
+[linkedin]: https://www.linkedin.com/in/meheret-abebe/
+
+
 
 <!--
 <h2> 🤳 Connect with me:</h2>
