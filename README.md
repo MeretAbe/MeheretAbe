@@ -8,6 +8,7 @@
   - [Python Practice](https://github.com/Meret433/Python-Practice)<b>
 - <b>Portfolio-Project</b>
   - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
+  - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
 - <b>Certification</b>
   - [Suffolk University Data Analytics Bootcamp]
   - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
