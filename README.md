@@ -14,11 +14,11 @@
   - [Capital Community College - Intermediate SQL](docs/Intermidiate%20SQL%20certification_capital%20community%20college.pdf)
 
 
-<h2> 🤳 Connect with me:</h2>
+## <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## [<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/meheretabebe
+## [linkedin]: https://linkedin.com/in/meheretabebe
 
 <!--
 
