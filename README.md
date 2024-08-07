@@ -10,7 +10,7 @@
   - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
   - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
 - <b>Certification</b>
-  - [Suffolk University Data Analytics Bootcamp]
+  - Suffolk University Data Analytics Bootcamp
   - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
   - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
 
