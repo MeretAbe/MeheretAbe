@@ -13,7 +13,11 @@
   - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
   - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
 
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/meheretabebe
 
 <!--
 <h2> 🤳 Connect with me:</h2>
