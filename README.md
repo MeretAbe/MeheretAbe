@@ -1,6 +1,6 @@
 <h1>Hi, I'm Meheret, <br/><a href="https://github.com/Meret433">Data-Driven Healthcare Professional</a> <a href="https://www.linkedin.com/in/meheret-abebe//"></a> </a></h1>
 
-<h2>👨‍💻 Data Analytical Projects:</h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL Practice </b>
   - [SQL Practice](https://github.com/Meret433/SQL-Practice)
