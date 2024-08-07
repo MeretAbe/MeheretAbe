@@ -10,8 +10,8 @@
   - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
 - <b>Certification</b>
   - [Suffolk University Data Analytics Bootcamp]
-  - [Capital Community College-Into to SQL] (https://github.com//Users/meher/Downloads/Intro%20to%20SQL%20certification_Capital%20community%20college.pdf)
-  - [Capital Community College - Intermediate SQL](docs/Intermidiate%20SQL%20certification_capital%20community%20college.pdf)
+  - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
+  - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
 
 
 
