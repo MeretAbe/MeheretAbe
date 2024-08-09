@@ -12,10 +12,7 @@
 - <b>Portfolio-Project</b>
   - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
   - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
-- <b>Certification</b>
-  - Suffolk University Data Analytics Bootcamp
-  - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
-  - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -26,6 +23,11 @@
 
 
 <!--
+
+- <b>Certification</b>
+  - Suffolk University Data Analytics Bootcamp
+  - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
+  - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
