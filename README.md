@@ -12,7 +12,7 @@
 - <b>Portfolio-Project</b>
   - [Worldwide-Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)
   - [Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)
-
+[Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
 
 <h2> 🤳 Connect with me:</h2>
 
