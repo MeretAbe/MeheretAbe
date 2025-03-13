@@ -11,8 +11,8 @@
 - 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
 - 🏅 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 - 🌱 **Currently Learning:**
-      - [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.
-      - [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare administration.
+      -<b> [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.
+      -<b> [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare administration.
  
 <hr>
 
