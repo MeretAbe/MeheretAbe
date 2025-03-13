@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<h1 align="center">Hi! I'm Meheret 👋</h1>
+<h1 align="center">Hi, I'm Meheret! 👋</h1>
 <h3 align="center">Data Analyst | Clinical Trial Analyst & Healthcare Analyst  
 
 <hr>
@@ -9,7 +9,7 @@
 ## 👩🏻‍💻 **Data Analyst Projects:**
 
 - 🌱 **Currently Learning:**
-      - <b> [**Python Data Analysis for Healthcare**]( )</b>— Python programming for different scenarios in the healthcare industry.
+      - <b> [**Python Data Analysis for Healthcare**]( )</b> — Python programming for different scenarios in the healthcare industry.
       - <b> [**SQL for Healthcare Professionals**]( )</b> — Applying SQL to patient care management, population care management, clinical research, and healthcare administration.
 
 - 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
