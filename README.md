@@ -1,4 +1,47 @@
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+<h1 align="center">Hi! I'm Meheret 👋</h1>
+<h3 align="center">Data Analyst | Clinical Trial Analyst & Healthcare Analyst  
+
+<hr>
+
+## 👩🏻‍💻 **Data Analyst Projects:**
+
+- 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
+- 🏅 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+- 🌱 **Currently Learning:**
+      - [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.
+      - [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare administration.
+ 
+<hr>
+
+## 💼 **Miscellaneous:**
+- **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
+- **[Python Practice](https://github.com/Meret433/Python-Practice)**
+
+
+<hr>
+
+## 📄 **Certifications:**
+
+- [**Suffolk University Data Analytics Bootcamp**](  )
+- [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
+- [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
+
+<hr>
+
+## 🤳 **Connect with Me:**
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/meheret-abebe/]" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin: 10px;">
+  </a>
+  
+</div>
+
+
+
 <h1>Hi, I'm Meheret, a <a href="https://www.linkedin.com/in/meheret-abebe/">Data Analytics Professional</a></h1>
 
 
