@@ -8,12 +8,13 @@
 
 ## 👩🏻‍💻 **Data Analyst Projects:**
 
-- 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
-- 🏅 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 - 🌱 **Currently Learning:**
       - <b> [**Python Data Analysis for Healthcare**]( )</b>— Python programming for different scenarios in the healthcare industry.
       - <b> [**SQL for Healthcare Professionals**]( )</b> — Applying SQL to patient care management, population care management, clinical research, and healthcare administration.
- 
+
+- 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
+- 🏅 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+
 <hr>
 
 ## 💼 **Miscellaneous:**
@@ -62,20 +63,6 @@
 [<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/meheret-abebe/
-
-
-
-<!--
-
-- <b>Certification</b>
-  - Suffolk University Data Analytics Bootcamp
-  - [Capital Community College-Into to SQL](https://imgur.com/a/6XMuiUl) 
-  - [Capital Community College - Intermediate SQL](https://imgur.com/a/scboJAq)
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="MeheretAbebe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/meheretabebe/
 
 
 Here are some ideas to get you started:
