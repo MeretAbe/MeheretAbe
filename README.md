@@ -23,7 +23,8 @@
 
 # 💼 **Miscellaneous:**
 
-**[SQL Practice](https://github.com/Meret433/SQL-Practice)**.
+*[SQL Practice](https://github.com/Meret433/SQL-Practice)*
+
 **[Python Practice](https://github.com/Meret433/Python-Practice)**.
 
 
