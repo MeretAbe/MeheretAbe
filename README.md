@@ -38,7 +38,7 @@
 
 <hr>
 
-# 🤳 **Connect with Me:*
+# 🤳 *Connect with Me:*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/meheret-abebe/" target="_blank">
