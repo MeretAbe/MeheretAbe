@@ -8,7 +8,9 @@
 
 <h2>👩🏻‍💻Data Analytic Projects:</h2>
 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
-**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**  
+**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+
+- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Worldwide- Covid Tracking</b>
   - [Praciting DS & Algos in Python](https://github.com/Meret433/Worldwide-Covid-Tracking-)
