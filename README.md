@@ -6,9 +6,9 @@
 
 <hr>
 
-## 👩🏻‍💻 **Data Analytic Projects:*
+## 👩🏻‍💻 **Data Analytic Projects:**
 
-- 🌱 **Currently Learning:**
+- 🌱 </h3>**Currently Learning:**</h3>
       - <b> [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.</b>
       - <b> [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare.</b>
 - 🧪 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)** 
