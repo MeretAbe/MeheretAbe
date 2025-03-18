@@ -6,13 +6,13 @@
 
 <hr>
 
-# 👩🏻‍💻 *Data Analytic Projects:*
-*[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)*  
-*[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)*
+# 👩🏻‍💻 **Data Analytic Projects:**
+**[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
+**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
 
 
-# 🌱*Currently Working On:*
+# 🌱**Currently Working On:**
 *[Python Data Analysis for Healthcare]( )*- Python programming for different scenarios in the healthcare industry.
 
 *[SQL for Healthcare Professionals]( )*- Applying SQL to patient care management,clinical research, and healthcare.
@@ -21,9 +21,9 @@
 
 <hr>
 
-# 💼 *Miscellaneous:*
+# 💼 **Miscellaneous:**
 
-*[SQL Practice](https://github.com/Meret433/SQL-Practice)*
+[SQL Practice](https://github.com/Meret433/SQL-Practice)*
 
 *[Python Practice](https://github.com/Meret433/Python-Practice)*
 
