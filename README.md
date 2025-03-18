@@ -29,7 +29,7 @@
 
 <hr> 
 
-## 📄 **Certifications:**
+# 📄 **Certifications:**
 
 - [**Suffolk University Data Analytics Bootcamp**](  )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
@@ -37,7 +37,7 @@
 
 <hr>
 
-## 🤳 **Connect with Me:**
+# 🤳 **Connect with Me:**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/meheret-abebe/" target="_blank">
