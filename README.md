@@ -7,9 +7,9 @@
 <hr>
 
 # 👩🏻‍💻 **Data Analytic Projects:**
-**[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**.  
+**[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
 
-**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**.
+**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
 
 
