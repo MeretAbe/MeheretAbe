@@ -14,6 +14,7 @@
 
 ## 🌱**Currently Working On:**
 **[Python Data Analysis for Healthcare]( )** — Python programming for different scenarios in the healthcare industry.
+
 **[SQL for Healthcare Professionals]( )** — Applying SQL to patient care management,clinical research, and healthcare.
 
 
@@ -21,8 +22,8 @@
 <hr>
 
 ## 💼**Miscellaneous:**
-**[SQL Practice]**(https://github.com/Meret433/SQL-Practice).
-**[Python Practice]**(https://github.com/Meret433/Python-Practice).
+**[SQL Practice](https://github.com/Meret433/SQL-Practice)**.
+**[Python Practice](https://github.com/Meret433/Python-Practice)**.
 
 
 <hr>
