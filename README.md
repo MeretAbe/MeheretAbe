@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 <h1 align="center">Hi, I'm Meheret! 👋</h1>
-<h3 align="center">Data Analyst | Clinical Trial Analyst & Healthcare Analyst  
+<h3 align="center"> Healthcare Analyst & Clinical Research   
 
 <hr>
 
