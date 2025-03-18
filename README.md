@@ -15,6 +15,7 @@
 
 # 🌱Currently Working On:
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry.
+
 **[SQL for Healthcare Professionals]( )**- Applying SQL to patient care management,clinical research, and healthcare.
 
 
@@ -30,7 +31,7 @@
 
 <hr> 
 
-# 📄**Certifications:**
+# 📄Certifications:
 
 - [**Suffolk University Data Analytics Bootcamp**](  )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
