@@ -6,7 +6,8 @@
 
 <hr>
 
-#👩🏻‍💻**Data Analytic Projects:**
+#👩🏻‍💻Data Analytic Projects:
+
 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
@@ -21,7 +22,7 @@
 
 <hr>
 
-# 💼**Miscellaneous:**
+# 💼Miscellaneous:
 
 **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
 
