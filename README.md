@@ -6,36 +6,19 @@
 
 <hr>
 
-<h2>👩🏻‍💻Data Analytic Projects:</h2>
+## 👩🏻‍💻 **Data Analytic Projects:**
 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
-- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-
-- <b>Worldwide- Covid Tracking</b>
-  - [Praciting DS & Algos in Python](https://github.com/Meret433/Worldwide-Covid-Tracking-)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-
-
-
-
-
-
-</h3>🌱Currently Working On:</h3>
+<h3>🌱Currently Working On:</h3>
       - <b> [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.</b>
       - <b> [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare.</b>
 
 <hr>
-</h3> 💼Miscellaneous:</h3>
-- **[SQL Practice](https://github.com/Meret433/SQL-Practice)**
-- **[Python Practice](https://github.com/Meret433/Python-Practice)**
+
+## 💼**Miscellaneous:**
+**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
+**[Python Practice](https://github.com/Meret433/Python-Practice)**
 
 
 <hr>
