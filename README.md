@@ -6,14 +6,14 @@
 
 <hr>
 
-#👩🏻‍💻Data Analytic Projects:
+# 👩🏻‍💻Data Analytic Projects:
 
 **[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
 **[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
 
 
 
-#🌱**Currently Working On:**
+# 🌱**Currently Working On:**
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry.
 
 **[SQL for Healthcare Professionals]( )**- Applying SQL to patient care management,clinical research, and healthcare.
@@ -31,7 +31,7 @@
 
 <hr> 
 
-#📄**Certifications:**
+# 📄**Certifications:**
 
 - [**Suffolk University Data Analytics Bootcamp**](  )
 - [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
