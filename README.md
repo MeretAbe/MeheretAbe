@@ -5,10 +5,14 @@
 <h3 align="center">Data Analyst | Clinical Trial Analyst & Healthcare Analyst  
 
 <hr>
+<h2>👩🏻‍💻Data Analytic Projects:</h2>
 
-## 👩🏻‍💻 **Data Analytic Projects:**
+</h3>🌱Currently Working On:</h3>
+- <b>[Python Data Analysis for Healthcare]</b>()- Python programming for different scenarios in the healthcare industry.
+- 
+  
 
-- 🌱 </h3>**Currently Learning:**</h3>
+ - **[Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)** — Designing and managing secure AD environments with VMware.
 
       - <b> [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.</b>
       - <b> [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare.</b>
