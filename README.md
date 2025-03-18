@@ -14,6 +14,8 @@
       - <b> [**Python Data Analysis for Healthcare**]( ) — Python programming for different scenarios in the healthcare industry.</b>
       - <b> [**SQL for Healthcare Professionals**]( ) — Applying SQL to patient care management, population care management, clinical research, and healthcare.</b>
 
+
+
 <hr>
 
 ## 💼**Miscellaneous:**
