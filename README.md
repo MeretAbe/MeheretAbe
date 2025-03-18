@@ -6,39 +6,39 @@
 
 <hr>
 
-# 👩🏻‍💻 **Data Analytic Projects:**
-**[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)**  
-**[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)**
+# 👩🏻‍💻 *Data Analytic Projects:*
+*[Worldwide- Covid Tracking](https://github.com/Meret433/Worldwide-Covid-Tracking-)*  
+*[Olympic Performance](https://github.com/Meret433/Olympic-Performance/tree/main)*
 
 
 
-# 🌱**Currently Working On:**
-**[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry.
+# 🌱*Currently Working On:*
+*[Python Data Analysis for Healthcare]( )*- Python programming for different scenarios in the healthcare industry.
 
-**[SQL for Healthcare Professionals]( )**- Applying SQL to patient care management,clinical research, and healthcare.
+*[SQL for Healthcare Professionals]( )*- Applying SQL to patient care management,clinical research, and healthcare.
 
 
 
 <hr>
 
-# 💼 **Miscellaneous:**
+# 💼 *Miscellaneous:*
 
 *[SQL Practice](https://github.com/Meret433/SQL-Practice)*
 
-**[Python Practice](https://github.com/Meret433/Python-Practice)**.
+*[Python Practice](https://github.com/Meret433/Python-Practice)*
 
 
 <hr> 
 
-# 📄 **Certifications:**
+# 📄 *Certifications:*
 
-- [**Suffolk University Data Analytics Bootcamp**](  )
-- [**Capital Community College-Into to SQL**](https://imgur.com/a/6XMuiUl) 
-- [**Capital Community College - Intermediate SQL**](https://imgur.com/a/scboJAq)
+- [*Suffolk University Data Analytics Bootcamp*](  )
+- [*Capital Community College-Into to SQL*](https://imgur.com/a/6XMuiUl) 
+- [*Capital Community College - Intermediate SQL*](https://imgur.com/a/scboJAq)
 
 <hr>
 
-# 🤳 **Connect with Me:**
+# 🤳 **Connect with Me:*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/meheret-abebe/" target="_blank">
