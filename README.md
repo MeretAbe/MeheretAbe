@@ -15,9 +15,10 @@
 
 
 # 🌱Currently Working On:
-**[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
 **[SQL for Healthcare Professionals](https://github.com/MeheretAbe/Healthcare-Operations-and-Research )**- Applying SQL to patient care management,clinical research, and healthcare
+
+**[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
 
 
