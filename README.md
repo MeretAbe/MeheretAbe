@@ -22,15 +22,6 @@
 
 
 
-<hr>
-
-# 💼Miscellaneous:
-
-**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
-
-**[Python Practice](https://github.com/Meret433/Python-Practice)**
-
-
 <hr> 
 
 # 📄Certifications:
@@ -85,4 +76,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<hr>
+
+# 💼Miscellaneous:
+
+**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
+
+**[Python Practice](https://github.com/Meret433/Python-Practice)**
+
 -->
