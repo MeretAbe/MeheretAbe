@@ -20,7 +20,11 @@
 
 **[Python Data Analysis for Healthcare]( )**- Python programming for different scenarios in the healthcare industry
 
+# 💼Miscellaneous:
 
+**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
+
+**[Python Practice](https://github.com/Meret433/Python-Practice)**
 
 <hr> 
 
@@ -77,11 +81,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <hr>
-
-# 💼Miscellaneous:
-
-**[SQL Practice](https://github.com/Meret433/SQL-Practice)**
-
-**[Python Practice](https://github.com/Meret433/Python-Practice)**
 
 -->
